@@ -2,6 +2,6 @@
 
 -Estado del proyecto: En Construcción.
 
-Para ejecutar el sistemes debes poner:
+Para ejecutar el sistema debes poner:
 
 ```Esto es solo un ejemplo```
